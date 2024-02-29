@@ -8,4 +8,4 @@ Once cloned, copy the path of the HTML file into your OBS source.
 
 ### Appearance
 
-![Appearance](img\image.png)
+![Appearance](img/image.png)
